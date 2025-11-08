@@ -1,0 +1,72 @@
+# Python / PyTorch / ML Projects
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.egg
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (large / sensitive)
+data/
+datasets/
+*.csv
+*.h5
+*.root
+*.zip
+*.tar
+*.gz
+*.npz
+*.npy
+
+# Model checkpoints / weights
+checkpoints/
+models/
+runs/
+*.pt
+*.pth
+*.onnx
+
+# Logs and outputs
+logs/
+*.log
+*.out
+*.err
+*.tmp
+*.dat
+*.pkl
+*.jsonl
+*.hdf5
+
+# VS Code and system files
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Analysis results
+results/
+output/
+plots/
+figures/
+
+# ROOT and HEP-specific files
+*.TTree
+*.rootmap
+*.pcm
+*.d

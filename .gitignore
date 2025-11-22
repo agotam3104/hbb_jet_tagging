@@ -32,24 +32,13 @@ datasets/
 *.npz
 *.npy
 
-# Model checkpoints / weights
-checkpoints/
-models/
-runs/
-*.pt
-*.pth
-*.onnx
-
-# Logs and outputs
+# Logs and temp outputs
 logs/
 *.log
 *.out
 *.err
 *.tmp
 *.dat
-*.pkl
-*.jsonl
-*.hdf5
 
 # VS Code and system files
 .vscode/
@@ -58,12 +47,6 @@ logs/
 Thumbs.db
 ehthumbs.db
 Icon?
-
-# Analysis results
-results/
-output/
-plots/
-figures/
 
 # ROOT and HEP-specific files
 *.TTree

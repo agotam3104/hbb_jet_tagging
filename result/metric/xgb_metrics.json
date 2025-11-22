@@ -1,0 +1,22 @@
+{
+    "accuracy": 0.3800,
+    "precision_macro": 0.3100,
+    "recall_macro": 0.2300,
+    "f1_macro": 0.2100,
+    "macro_auc": 0.6195,
+    "micro_auc": 0.7538,
+    "auc_ovo": 0.4996659279058565,
+    "logloss": 1.829310553766137,
+    "optuna_best_score": 0.7509495100625,
+    "optuna_best_params": {
+        "max_depth": 8,
+        "learning_rate": 0.05946915722742979,
+        "n_estimators": 343,
+        "subsample": 0.8949146644786926,
+        "colsample_bytree": 0.8529168108164243,
+        "gamma": 3.5756134565846933,
+        "min_child_weight": 3,
+        "reg_alpha": 1.350841654577008,
+        "reg_lambda": 2.6359227542346595
+    }
+}
